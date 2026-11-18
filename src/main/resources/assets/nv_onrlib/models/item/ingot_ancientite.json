@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nv_onrlib:item/ancientite_ingot"
+  }
+}

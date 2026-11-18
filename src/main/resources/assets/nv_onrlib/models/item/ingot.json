@@ -1,0 +1,608 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nv_onrlib:item/iron_ingot"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "nv_onrlib:name": 1
+      },
+      "model": "nv_onrlib:item/ingot_mithril"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 2
+      },
+      "model": "nv_onrlib:item/ingot_adamantite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 3
+      },
+      "model": "nv_onrlib:item/ingot_orichalcum"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 4
+      },
+      "model": "nv_onrlib:item/ingot_starsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 5
+      },
+      "model": "nv_onrlib:item/ingot_moonsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 6
+      },
+      "model": "nv_onrlib:item/ingot_sunbronze"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 7
+      },
+      "model": "nv_onrlib:item/ingot_voidiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 8
+      },
+      "model": "nv_onrlib:item/ingot_dragonsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 9
+      },
+      "model": "nv_onrlib:item/ingot_aetherium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 10
+      },
+      "model": "nv_onrlib:item/ingot_shadowsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 11
+      },
+      "model": "nv_onrlib:item/ingot_bloodiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 12
+      },
+      "model": "nv_onrlib:item/ingot_frostsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 13
+      },
+      "model": "nv_onrlib:item/ingot_emberite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 14
+      },
+      "model": "nv_onrlib:item/ingot_stormsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 15
+      },
+      "model": "nv_onrlib:item/ingot_duskgold"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 16
+      },
+      "model": "nv_onrlib:item/ingot_dawnbronze"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 17
+      },
+      "model": "nv_onrlib:item/ingot_verdanite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 18
+      },
+      "model": "nv_onrlib:item/ingot_azurite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 19
+      },
+      "model": "nv_onrlib:item/ingot_crimsonite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 20
+      },
+      "model": "nv_onrlib:item/ingot_nightsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 21
+      },
+      "model": "nv_onrlib:item/ingot_runesteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 22
+      },
+      "model": "nv_onrlib:item/ingot_soulsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 23
+      },
+      "model": "nv_onrlib:item/ingot_netherbrass"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 24
+      },
+      "model": "nv_onrlib:item/ingot_skyiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 25
+      },
+      "model": "nv_onrlib:item/ingot_deepiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 26
+      },
+      "model": "nv_onrlib:item/ingot_thornsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 27
+      },
+      "model": "nv_onrlib:item/ingot_venomite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 28
+      },
+      "model": "nv_onrlib:item/ingot_glimmerite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 29
+      },
+      "model": "nv_onrlib:item/ingot_arcanium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 30
+      },
+      "model": "nv_onrlib:item/ingot_celestium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 31
+      },
+      "model": "nv_onrlib:item/ingot_infernium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 32
+      },
+      "model": "nv_onrlib:item/ingot_glacium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 33
+      },
+      "model": "nv_onrlib:item/ingot_terranite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 34
+      },
+      "model": "nv_onrlib:item/ingot_tidesteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 35
+      },
+      "model": "nv_onrlib:item/ingot_luminite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 36
+      },
+      "model": "nv_onrlib:item/ingot_obscurium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 37
+      },
+      "model": "nv_onrlib:item/ingot_pyrosteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 38
+      },
+      "model": "nv_onrlib:item/ingot_cryosteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 39
+      },
+      "model": "nv_onrlib:item/ingot_galvanite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 40
+      },
+      "model": "nv_onrlib:item/ingot_phantomsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 41
+      },
+      "model": "nv_onrlib:item/ingot_wraithiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 42
+      },
+      "model": "nv_onrlib:item/ingot_spiritbronze"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 43
+      },
+      "model": "nv_onrlib:item/ingot_elderbrass"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 44
+      },
+      "model": "nv_onrlib:item/ingot_ancientite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 45
+      },
+      "model": "nv_onrlib:item/ingot_primordium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 46
+      },
+      "model": "nv_onrlib:item/ingot_zephyrite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 47
+      },
+      "model": "nv_onrlib:item/ingot_quicksteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 48
+      },
+      "model": "nv_onrlib:item/ingot_heartgold"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 49
+      },
+      "model": "nv_onrlib:item/ingot_rosesteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 50
+      },
+      "model": "nv_onrlib:item/ingot_violium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 51
+      },
+      "model": "nv_onrlib:item/ingot_indigite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 52
+      },
+      "model": "nv_onrlib:item/ingot_ceruleum"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 53
+      },
+      "model": "nv_onrlib:item/ingot_viridium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 54
+      },
+      "model": "nv_onrlib:item/ingot_amberite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 55
+      },
+      "model": "nv_onrlib:item/ingot_scarletite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 56
+      },
+      "model": "nv_onrlib:item/ingot_ivorite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 57
+      },
+      "model": "nv_onrlib:item/ingot_onyxium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 58
+      },
+      "model": "nv_onrlib:item/ingot_pearlsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 59
+      },
+      "model": "nv_onrlib:item/ingot_coralite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 60
+      },
+      "model": "nv_onrlib:item/ingot_jadesteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 61
+      },
+      "model": "nv_onrlib:item/ingot_opaline"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 62
+      },
+      "model": "nv_onrlib:item/ingot_garnetite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 63
+      },
+      "model": "nv_onrlib:item/ingot_topazium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 64
+      },
+      "model": "nv_onrlib:item/ingot_sapphirium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 65
+      },
+      "model": "nv_onrlib:item/ingot_emeraldine"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 66
+      },
+      "model": "nv_onrlib:item/ingot_rubium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 67
+      },
+      "model": "nv_onrlib:item/ingot_amethine"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 68
+      },
+      "model": "nv_onrlib:item/ingot_citrinium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 69
+      },
+      "model": "nv_onrlib:item/ingot_turquoisite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 70
+      },
+      "model": "nv_onrlib:item/ingot_magmasteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 71
+      },
+      "model": "nv_onrlib:item/ingot_lavabronze"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 72
+      },
+      "model": "nv_onrlib:item/ingot_ashiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 73
+      },
+      "model": "nv_onrlib:item/ingot_cinderite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 74
+      },
+      "model": "nv_onrlib:item/ingot_smokesteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 75
+      },
+      "model": "nv_onrlib:item/ingot_mistsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 76
+      },
+      "model": "nv_onrlib:item/ingot_cloudsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 77
+      },
+      "model": "nv_onrlib:item/ingot_thunderite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 78
+      },
+      "model": "nv_onrlib:item/ingot_lightningsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 79
+      },
+      "model": "nv_onrlib:item/ingot_galesilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 80
+      },
+      "model": "nv_onrlib:item/ingot_tempestite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 81
+      },
+      "model": "nv_onrlib:item/ingot_oceanite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 82
+      },
+      "model": "nv_onrlib:item/ingot_abyssium"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 83
+      },
+      "model": "nv_onrlib:item/ingot_reefbronze"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 84
+      },
+      "model": "nv_onrlib:item/ingot_swampiron"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 85
+      },
+      "model": "nv_onrlib:item/ingot_mossteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 86
+      },
+      "model": "nv_onrlib:item/ingot_bloomsilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 87
+      },
+      "model": "nv_onrlib:item/ingot_petalite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 88
+      },
+      "model": "nv_onrlib:item/ingot_honeygold"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 89
+      },
+      "model": "nv_onrlib:item/ingot_wyrmbrass"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 90
+      },
+      "model": "nv_onrlib:item/ingot_griffonsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 91
+      },
+      "model": "nv_onrlib:item/ingot_phoenixite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 92
+      },
+      "model": "nv_onrlib:item/ingot_hydrasteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 93
+      },
+      "model": "nv_onrlib:item/ingot_krakenite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 94
+      },
+      "model": "nv_onrlib:item/ingot_titanbronze"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 95
+      },
+      "model": "nv_onrlib:item/ingot_giantsteel"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 96
+      },
+      "model": "nv_onrlib:item/ingot_fairysilver"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 97
+      },
+      "model": "nv_onrlib:item/ingot_pixiegold"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 98
+      },
+      "model": "nv_onrlib:item/ingot_demonite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 99
+      },
+      "model": "nv_onrlib:item/ingot_angelite"
+    },
+    {
+      "predicate": {
+        "nv_onrlib:name": 100
+      },
+      "model": "nv_onrlib:item/ingot_chaosteel"
+    }
+  ]
+}
